@@ -17,7 +17,7 @@ class ConfigurationTests(unittest.TestCase):
 
         errors = validate_vram(configuration, available_gib=12)
 
-        self.assertIn("requires at least 20 GiB VRAM; only 12 GiB available", errors)
+        self.assertIn("requires at least 24 GiB VRAM; only 12 GiB available", errors)
 
     def test_unknown_configuration_has_clear_error(self) -> None:
         with self.assertRaisesRegex(ValueError, "unknown configuration"):

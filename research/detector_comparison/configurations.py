@@ -30,7 +30,7 @@ CONFIGURATIONS: dict[str, dict[str, Any]] = {
         "sampling_model": "gpt-j-6B",
         "scoring_model": "gpt-neo-2.7B",
         "criterion_mode": "analytic",
-        "minimum_vram_gib": 20,
+        "minimum_vram_gib": 24,
         "upstream_calibration": "gpt-j-6B_gpt-neo-2.7B",
         "fingerprint": "fastdetectgpt:gptj_6b__neo_2p7b__analytic:v1",
     },
