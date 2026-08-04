@@ -1,0 +1,13 @@
+# Python build/runtime artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments and local configuration
+.venv/
+.env
+.env.*
+
+# Tooling output
+.pytest_cache/
+.mypy_cache/
