@@ -1,0 +1,77 @@
+{
+  "created_at": "2026-08-04T07:30:50.933996+00:00",
+  "samples": [
+    {
+      "id": "human-sherlock-001",
+      "title": "A Scandal in Bohemia",
+      "author": "Arthur Conan Doyle",
+      "url": "https://www.gutenberg.org/files/1661/1661-0.txt",
+      "start": "To Sherlock Holmes she is always _the_ woman.",
+      "license_or_consent": "Project Gutenberg public-domain text (United States)",
+      "label": "human_authored",
+      "source_type": "public_domain_online",
+      "text": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer\u2014excellent for drawing the veil from men\u2019s motives and actions. But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory. I had seen little of Holmes lately. My marriage had drifted us away from each other. My own complete happiness, and the home-centred interests which rise up around the man who first finds himself master of his own establishment, were sufficient to absorb all my attention, while Holmes, who loathed every form of society with his whole Bohemian soul, remained in our lodgings in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition, the drowsiness of the drug, and the fierce energy of his own keen nature. He was still, as ever, deeply attracted by the study of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and clearing up those mysteries which had been abandoned as hopeless by the official police. From time to time I heard some vague account of his doings: of his summons to Odessa",
+      "word_count": 360,
+      "text_sha256": "90723d4b47ef473e763974c2f1990c4dcbf30095a6a99aa94e1b950782f5d1fd"
+    },
+    {
+      "id": "human-walden-001",
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "url": "https://www.gutenberg.org/files/205/205-0.txt",
+      "start": "When I wrote the following pages",
+      "license_or_consent": "Project Gutenberg public-domain text (United States)",
+      "label": "human_authored",
+      "source_type": "public_domain_online",
+      "text": "When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again. I should not obtrude my affairs so much on the notice of my readers if very particular inquiries had not been made by my townsmen concerning my mode of life, which some would call impertinent, though they do not appear to me at all impertinent, but, considering the circumstances, very natural and pertinent. Some have asked what I got to eat; if I did not feel lonesome; if I was not afraid; and the like. Others have been curious to learn what portion of my income I devoted to charitable purposes; and some, who have large families, how many poor children I maintained. I will therefore ask those of my readers who feel no particular interest in me to pardon me if I undertake to answer some of these questions in this book. In most books, the _I_, or first person, is omitted; in this it will be retained; that, in respect to egotism, is the main difference. We commonly do not remember that it is, after all, always the first person that is speaking. I should not talk so much about myself if there were anybody else whom I knew as well. Unfortunately, I am confined to this theme by the narrowness of my experience. Moreover, I, on my side, require of every writer, first or last, a simple and sincere account of his own life, and not merely what he has heard of other men\u2019s lives; some such account as he would send to his kindred from a distant land; for if he has lived sincerely, it must have been in a distant land to me. Perhaps these pages are more particularly addressed to poor students. As for the rest of my readers, they will accept such portions as",
+      "word_count": 360,
+      "text_sha256": "f69ccb645df114750be75564e4415b6e4ece292b35418634443171c16dd80b4f"
+    },
+    {
+      "id": "ai-story-001",
+      "genre": "short_story",
+      "text": "By the time Mara found the spare key, the rain had turned the porch into a shallow mirror. The brass tag on the key ring said GREENHOUSE, though the greenhouse had been empty since her grandfather stopped growing tomatoes. She let herself in anyway. Inside, the air smelled of wet soil and old pots. A radio sat on the workbench, playing a baseball game through a cloud of static. Her grandfather had been gone for eight years, but the announcer was describing a game from the summer Mara was twelve.\n\nShe looked behind the seed trays for the property papers. Instead she found a small notebook, the kind he used for plant dates and weather notes. Every page was filled with brief entries: frost, broken hinge, rabbit tracks, Mara home from school. On the last page, beneath a drawing of a crooked sunflower, he had written, \u201cLeave the back window open when it rains. The plants like to hear it.\u201d\n\nMara laughed once, quietly. Then she opened the window. Rain tapped against the glass roof, and the greenhouse sounded less abandoned than it had a minute earlier.",
+      "generator_model": "gpt-5.6-terra via Hermit",
+      "generator_prompt": "Write a 250-word literary short story about finding a key in a rainstorm.",
+      "label": "ai_generated",
+      "source_type": "assistant_generated",
+      "license_or_consent": "synthetic-test-data",
+      "word_count": 187,
+      "text_sha256": "8332371105e08ce43ac65d74f64e71fb45d240c8827febf6ceae30fe7b5e5e00"
+    },
+    {
+      "id": "ai-explainer-001",
+      "genre": "explainer",
+      "text": "A neighborhood tool library works like a regular library, except the shelves hold drills, ladders, sewing machines, pressure washers, and other equipment that people may need only once or twice a year. Members pay a small fee, complete a basic safety orientation, and borrow items for a limited period. The model can save households money and reduce the number of rarely used tools sitting in garages.\n\nThe difficult part is maintenance. A borrowed circular saw needs more attention than a borrowed novel. Tool libraries usually inspect equipment when it comes back, replace worn blades or batteries, and set aside a repair budget. Some also run workshops so members can learn how to use unfamiliar equipment before taking it home.\n\nThe strongest programs rely on more than inventory software. They need volunteers who understand repairs, clear borrowing rules, and a location people can reach without a car. When those pieces are in place, the library becomes a practical shared resource rather than simply a room full of tools.",
+      "generator_model": "gpt-5.6-terra via Hermit",
+      "generator_prompt": "Write a 250-word plain-language explainer of a neighborhood tool library.",
+      "label": "ai_generated",
+      "source_type": "assistant_generated",
+      "license_or_consent": "synthetic-test-data",
+      "word_count": 167,
+      "text_sha256": "89fcfe541bdf264dd0e85bb2d5926741601128c7c0729b7b3b06eaa93b5c7879"
+    },
+    {
+      "id": "mixed-sherlock-story-001",
+      "label": "mixed",
+      "source_ids": [
+        "human-sherlock-001",
+        "ai-story-001"
+      ],
+      "text": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer\u2014excellent for drawing the veil from men\u2019s motives and actions. But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory. I had seen little of Holmes lately. My marriage had drifted us away from each other. My own complete happiness, and the home-centred interests which rise up around the man who first finds himself master of his own establishment, were sufficient to absorb all my attention, while Holmes, who loathed every form of society with his whole Bohemian soul, remained in our lodgings in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition, the drowsiness of the drug, and the fierce energy of his own keen nature. He was still, as ever, deeply attracted by the study of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and clearing up those mysteries which had been abandoned as hopeless by the official police. From time to time I heard some vague account of his doings: of his summons to Odessa\n\nBy the time Mara found the spare key, the rain had turned the porch into a shallow mirror. The brass tag on the key ring said GREENHOUSE, though the greenhouse had been empty since her grandfather stopped growing tomatoes. She let herself in anyway. Inside, the air smelled of wet soil and old pots. A radio sat on the workbench, playing a baseball game through a cloud of static. Her grandfather had been gone for eight years, but the announcer was describing a game from the summer Mara was twelve.\n\nShe looked behind the seed trays for the property papers. Instead she found a small notebook, the kind he used for plant dates and weather notes. Every page was filled with brief entries: frost, broken hinge, rabbit tracks, Mara home from school. On the last page, beneath a drawing of a crooked sunflower, he had written, \u201cLeave the back window open when it rains. The plants like to hear it.\u201d\n\nMara laughed once, quietly. Then she opened the window. Rain tapped against the glass roof, and the greenhouse sounded less abandoned than it had a minute earlier.",
+      "text_sha256": "cd8a2df9c4daa14a6af9c12dcd7448defb562d51d7310685aab143817150101b",
+      "word_count": 547
+    },
+    {
+      "id": "mixed-walden-explainer-001",
+      "label": "mixed",
+      "source_ids": [
+        "human-walden-001",
+        "ai-explainer-001"
+      ],
+      "text": "When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again. I should not obtrude my affairs so much on the notice of my readers if very particular inquiries had not been made by my townsmen concerning my mode of life, which some would call impertinent, though they do not appear to me at all impertinent, but, considering the circumstances, very natural and pertinent. Some have asked what I got to eat; if I did not feel lonesome; if I was not afraid; and the like. Others have been curious to learn what portion of my income I devoted to charitable purposes; and some, who have large families, how many poor children I maintained. I will therefore ask those of my readers who feel no particular interest in me to pardon me if I undertake to answer some of these questions in this book. In most books, the _I_, or first person, is omitted; in this it will be retained; that, in respect to egotism, is the main difference. We commonly do not remember that it is, after all, always the first person that is speaking. I should not talk so much about myself if there were anybody else whom I knew as well. Unfortunately, I am confined to this theme by the narrowness of my experience. Moreover, I, on my side, require of every writer, first or last, a simple and sincere account of his own life, and not merely what he has heard of other men\u2019s lives; some such account as he would send to his kindred from a distant land; for if he has lived sincerely, it must have been in a distant land to me. Perhaps these pages are more particularly addressed to poor students. As for the rest of my readers, they will accept such portions as\n\nA neighborhood tool library works like a regular library, except the shelves hold drills, ladders, sewing machines, pressure washers, and other equipment that people may need only once or twice a year. Members pay a small fee, complete a basic safety orientation, and borrow items for a limited period. The model can save households money and reduce the number of rarely used tools sitting in garages.\n\nThe difficult part is maintenance. A borrowed circular saw needs more attention than a borrowed novel. Tool libraries usually inspect equipment when it comes back, replace worn blades or batteries, and set aside a repair budget. Some also run workshops so members can learn how to use unfamiliar equipment before taking it home.\n\nThe strongest programs rely on more than inventory software. They need volunteers who understand repairs, clear borrowing rules, and a location people can reach without a car. When those pieces are in place, the library becomes a practical shared resource rather than simply a room full of tools.",
+      "text_sha256": "22f0325d71f1f0cb53565c73884012e47228d117501b435bc75b2c3713c3511b",
+      "word_count": 527
+    }
+  ]
+}

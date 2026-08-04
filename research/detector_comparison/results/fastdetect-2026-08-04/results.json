@@ -1,0 +1,68 @@
+[
+  {
+    "provider": "fast-detect-gpt-upstream",
+    "sampling_model": "gpt-neo-2.7B",
+    "scoring_model": "gpt-neo-2.7B",
+    "sample_id": "human-sherlock-001",
+    "sample_sha256": "90723d4b47ef473e763974c2f1990c4dcbf30095a6a99aa94e1b950782f5d1fd",
+    "known_label": "human_authored",
+    "criterion": 4.1953125,
+    "reported_ai_probability": 0.9998126008015843,
+    "tokens": 434
+  },
+  {
+    "provider": "fast-detect-gpt-upstream",
+    "sampling_model": "gpt-neo-2.7B",
+    "scoring_model": "gpt-neo-2.7B",
+    "sample_id": "human-walden-001",
+    "sample_sha256": "f69ccb645df114750be75564e4415b6e4ece292b35418634443171c16dd80b4f",
+    "known_label": "human_authored",
+    "criterion": 1.490234375,
+    "reported_ai_probability": 0.6916771507201852,
+    "tokens": 434
+  },
+  {
+    "provider": "fast-detect-gpt-upstream",
+    "sampling_model": "gpt-neo-2.7B",
+    "scoring_model": "gpt-neo-2.7B",
+    "sample_id": "ai-story-001",
+    "sample_sha256": "8332371105e08ce43ac65d74f64e71fb45d240c8827febf6ceae30fe7b5e5e00",
+    "known_label": "ai_generated",
+    "criterion": 1.37109375,
+    "reported_ai_probability": 0.6439525680808134,
+    "tokens": 229
+  },
+  {
+    "provider": "fast-detect-gpt-upstream",
+    "sampling_model": "gpt-neo-2.7B",
+    "scoring_model": "gpt-neo-2.7B",
+    "sample_id": "ai-explainer-001",
+    "sample_sha256": "89fcfe541bdf264dd0e85bb2d5926741601128c7c0729b7b3b06eaa93b5c7879",
+    "known_label": "ai_generated",
+    "criterion": -1.2734375,
+    "reported_ai_probability": 0.1930072602228538,
+    "tokens": 195
+  },
+  {
+    "provider": "fast-detect-gpt-upstream",
+    "sampling_model": "gpt-neo-2.7B",
+    "scoring_model": "gpt-neo-2.7B",
+    "sample_id": "mixed-sherlock-story-001",
+    "sample_sha256": "cd8a2df9c4daa14a6af9c12dcd7448defb562d51d7310685aab143817150101b",
+    "known_label": "mixed",
+    "criterion": 3.681640625,
+    "reported_ai_probability": 0.9987470725041194,
+    "tokens": 666
+  },
+  {
+    "provider": "fast-detect-gpt-upstream",
+    "sampling_model": "gpt-neo-2.7B",
+    "scoring_model": "gpt-neo-2.7B",
+    "sample_id": "mixed-walden-explainer-001",
+    "sample_sha256": "22f0325d71f1f0cb53565c73884012e47228d117501b435bc75b2c3713c3511b",
+    "known_label": "mixed",
+    "criterion": 0.3720703125,
+    "reported_ai_probability": 0.3117116952753554,
+    "tokens": 632
+  }
+]
