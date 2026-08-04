@@ -11,3 +11,4 @@ __pycache__/
 # Tooling output
 .pytest_cache/
 .mypy_cache/
+.hermes/
